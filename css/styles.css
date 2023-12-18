@@ -45,9 +45,9 @@ ul {
 .container {
   width: 100%;
   max-width: 1158px;
-  padding: 0.15px;
   margin: 0 auto;
-  padding: 0.15px 0.15px 0.15px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 .header-container {
