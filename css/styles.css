@@ -47,6 +47,7 @@ ul {
   max-width: 1158px;
   padding: 0.15px;
   margin: 0 auto;
+  padding: 0 15px 0 15px 0 15px;
 }
 
 .header-container {
@@ -55,7 +56,6 @@ ul {
   flex-direction: row;
   justify-content: space-between;
   margin: 0 auto;
-  padding: 0 15px 0 15px 0 15px;
 }
 
 .hero-logo {
@@ -67,7 +67,7 @@ ul {
 .hero-nav-list {
   display: flex;
   gap: 40px;
-  padding: 24px0;
+  padding: 24px 0;
 }
 
 .header-address {
@@ -187,6 +187,7 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
+  margin-right: 76px;
 }
 
 .logo-link-second {
