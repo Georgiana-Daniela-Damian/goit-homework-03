@@ -59,16 +59,12 @@ ul {
   display: flex;
   width: 24px;
   justify-content: space-between;
-  margin-top: 24px;
   margin-right: 76px;
   align-items: center;
-  padding: 24px 0;
 }
 
 .hero-nav-list {
   display: flex;
-  width: 24px;
-  justify-content: space-between;
   gap: 40px;
 }
 
@@ -84,6 +80,7 @@ ul {
   display: flex;
   margin-right: 40px;
   flex-direction: row;
+  padding: 24px 0;
 }
 
 .title-container {
