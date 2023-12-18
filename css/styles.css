@@ -46,12 +46,6 @@ ul {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.container {
-  width: 1158;
-  margin: 0auto;
-  padding: 015px;
-}
-
 .header-container {
   margin-left: 24px;
   width: 1440px;
@@ -63,8 +57,6 @@ ul {
 
 .hero-logo {
   display: flex;
-  width: 24px;
-  justify-content: space-between;
   margin-right: 76px;
   align-items: center;
 }
