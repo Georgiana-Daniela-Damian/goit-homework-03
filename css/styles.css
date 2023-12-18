@@ -43,6 +43,7 @@ ul {
   max-width: 1158px;
   padding: 0.15px;
   margin: 0 auto;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .header-container {
@@ -52,7 +53,6 @@ ul {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  border-bottom: 1px solid #e7e9fc;
 }
 
 .hero-logo {
@@ -60,6 +60,9 @@ ul {
   width: 24px;
   justify-content: space-between;
   margin-top: 24px;
+  margin-right: 76px;
+  align-items: center;
+  padding: 24px 0;
 }
 
 .hero-nav-list {
