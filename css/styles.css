@@ -38,12 +38,18 @@ ul {
 
 /* all-page-container */
 
-.container {
+.all-page-container {
   width: 100%;
   max-width: 1158px;
   padding: 0.15px;
   margin: 0 auto;
   border-bottom: 1px solid #e7e9fc;
+}
+
+.container {
+  width: 1158;
+  margin: 0auto;
+  padding: 015px;
 }
 
 .header-container {
