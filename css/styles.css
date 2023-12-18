@@ -45,17 +45,8 @@ ul {
   margin: 0 auto;
 }
 
-.all-page-container {
-  color: var(--slate-color);
-  background-color: var(--white-color);
-  flex-grow: 1;
-  padding: 24px 156px 100px 156px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
 .header-container {
+  margin-left: 24px;
   width: 1440px;
   height: 60px;
   display: flex;
@@ -67,6 +58,7 @@ ul {
   display: flex;
   width: 24px;
   justify-content: space-between;
+  margin-top: 24px;
 }
 
 .hero-nav-list {
@@ -78,22 +70,22 @@ ul {
 
 .header-address {
   display: flex;
-  flex-direction: row;
-  align-items: flex-start;
+  gap: 40px;
+  justify-content: space-between;
+  margin-top: 24px;
+  margin-right: 100px;
 }
 
-.hero-address-second {
+.header-mailto {
   display: flex;
-  align-items: center;
+  margin-right: 40px;
+  flex-direction: row;
 }
 
 .title-container {
-  padding-top: 188px;
-  padding-right: 472px;
-  padding-bottom: 292px;
-  padding-left: 472px;
   display: flex;
   flex-direction: column;
+  padding: 300px 720px;
 }
 
 .title-big {
@@ -156,6 +148,29 @@ ul {
 .our-team-main-two {
   display: flex;
   justify-content: space-between;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 312px;
+}
+
+.footer-footer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 105px;
+  margin-left: 156px;
+}
+
+.footer-footer-p {
+  display: flex;
+  flex-direction: column;
+  margin-top: 18px;
+  margin-right: 1020px;
+  margin-left: 156px;
+  margin-bottom: 100px;
 }
 
 /* Logo */
@@ -236,7 +251,6 @@ ul {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  display: flex;
 }
 
 /* Button-page-1 */
