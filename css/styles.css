@@ -51,22 +51,25 @@ ul {
 
 .header-container {
   margin-left: 24px;
-  width: 1440px;
+  width: 1158px;
   height: 60px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  margin: auto;
+  padding: 0 15px;
 }
 
 .hero-logo {
   display: flex;
-  margin-right: 76px;
   align-items: center;
+  margin-right: 76px;
 }
 
 .hero-nav-list {
   display: flex;
   gap: 40px;
+  padding: 24px0;
 }
 
 .header-address {
