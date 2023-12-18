@@ -38,7 +38,7 @@ ul {
 
 /* all-page-container */
 
-.all-page-container {
+.container {
   width: 100%;
   max-width: 1158px;
   padding: 0.15px;
@@ -52,6 +52,7 @@ ul {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .hero-logo {
