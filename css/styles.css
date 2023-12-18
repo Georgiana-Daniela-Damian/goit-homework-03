@@ -50,14 +50,14 @@ ul {
 }
 
 .header-container {
-  margin-left: 24px;
   width: 1158px;
   height: 60px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: auto;
-  padding: 0 15px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .hero-logo {
