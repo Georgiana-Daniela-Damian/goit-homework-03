@@ -162,7 +162,7 @@ ul {
   margin-bottom: 16px;
 }
 
-.footer-footer {
+.container-footer {
   display: flex;
   flex-direction: row;
   margin-top: 105px;
