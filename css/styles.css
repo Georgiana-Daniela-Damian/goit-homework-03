@@ -111,12 +111,19 @@ ul {
 .li-style {
   display: flex;
   gap: 24px;
-  margin-right: 0;
+  margin-right: 24px;
   width: calc((100%-72px) / 4);
 }
 
 .subtitle-style {
   margin-bottom: 8px;
+}
+
+.li-style-last {
+  display: flex;
+  gap: 24px;
+  width: calc((100%-72px) / 4);
+  margin-right: 0;
 }
 
 .what-are-you-doing {
