@@ -86,20 +86,22 @@ ul {
 
 .title-container {
   display: flex;
-  flex-direction: column;
-  padding: 300px 720px;
+  padding: 188px 0;
 }
 
 .title-big {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  max-width: 496px;
 }
 
-.border-buttons {
-  display: flex;
-  justify-content: center;
+.buttons-big {
+  display: block;
+  min-width: 169px;
+  height: 56px;
   margin-top: 40px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .section {
