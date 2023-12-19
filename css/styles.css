@@ -128,7 +128,7 @@ ul {
 }
 
 .li-style {
-  width: calc((100% - 72px) / 4);
+  width: ((100% - 72px) / 4);
 }
 
 .subtitle-style {
