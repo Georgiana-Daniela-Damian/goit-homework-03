@@ -104,7 +104,7 @@ ul {
   cursor: pointer;
 }
 
-.section-style {
+.section-two-style {
   padding: 120px 0;
 }
 
@@ -131,19 +131,17 @@ ul {
   margin-bottom: 8px;
 }
 
-.what-are-you-doing {
-  display: flex;
-  flex-direction: row;
-  margin-top: 120px;
-  justify-content: center;
+.section-three-style {
+  padding-bottom: 120px;
+}
+
+.what-are-you-style {
   margin-bottom: 72px;
 }
 
-.image-main {
+.image-style {
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-bottom: 120px;
+  gap: 24px;
 }
 
 .our-team-container {
