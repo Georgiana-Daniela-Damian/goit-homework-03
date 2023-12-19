@@ -157,11 +157,6 @@ ul {
   height: 312px;
 }
 
-.footer-link {
-  display: inline-block;
-  margin-bottom: 16px;
-}
-
 .container-footer {
   display: flex;
   flex-direction: row;
@@ -189,6 +184,8 @@ ul {
   text-transform: uppercase;
   text-decoration: none;
   margin-right: 76px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .logo-link-second {
