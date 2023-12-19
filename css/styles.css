@@ -154,8 +154,6 @@ ul {
 
 .section-four-style {
   padding: 120px 0;
-  gap: 24;
-  border-radius: 0px 0px 4px 4px 4px;
 }
 
 .our-team-style {
@@ -164,6 +162,8 @@ ul {
 
 .team-name-style {
   width: ((100% - 72px)/ 4);
+  gap: 24;
+  border-radius: 0px 0px 4px 4px 4px;
 }
 
 /* footer-five */
