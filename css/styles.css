@@ -110,6 +110,8 @@ ul {
 
 .section-two-style {
   padding: 120px 0;
+  display: flex;
+  gap: 24px;
 }
 
 .visually-hidden {
@@ -126,9 +128,7 @@ ul {
 }
 
 .li-style {
-  display: flex;
-  gap: 24px;
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 
 .subtitle-style {
@@ -154,6 +154,8 @@ ul {
 
 .section-four-style {
   padding: 120px 0;
+  gap: 24;
+  border-radius: 0px 0px 4px 4px 4px;
 }
 
 .our-team-style {
@@ -162,8 +164,6 @@ ul {
 
 .team-name-style {
   width: ((100% - 72px)/ 4);
-  gap: 24px;
-  border-radius: 0px 0px 4px 4px 4px;
 }
 
 /* footer-five */
