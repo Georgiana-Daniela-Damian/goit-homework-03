@@ -184,8 +184,6 @@ ul {
   text-transform: uppercase;
   text-decoration: none;
   margin-right: 76px;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 
 .logo-link-second {
@@ -391,6 +389,8 @@ ul {
   font-size: 18px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .paragraf-footer {
