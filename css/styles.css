@@ -152,14 +152,13 @@ ul {
   justify-content: space-between;
 }
 
-.footer-logo {
-  display: inline-block;
+.fundal-footer {
   padding: 100px 0;
   height: 312px;
 }
 
 .footer-link {
-  display: inline;
+  display: inline-block;
   margin-bottom: 16px;
 }
 
