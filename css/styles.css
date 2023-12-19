@@ -57,19 +57,19 @@ ul {
   margin: 0 auto;
 }
 
-.hero-logo {
+.logo-style {
   display: flex;
   align-items: center;
   margin-right: 76px;
 }
 
-.hero-nav-list {
+.nav-style {
   display: flex;
   gap: 40px;
   padding: 24px 0;
 }
 
-.header-address {
+.address-style {
   display: flex;
   gap: 40px;
   justify-content: space-between;
@@ -77,7 +77,7 @@ ul {
   margin-right: 100px;
 }
 
-.header-mailto {
+.mailto-style {
   display: flex;
   margin-right: 40px;
   flex-direction: row;
@@ -104,23 +104,19 @@ ul {
   cursor: pointer;
 }
 
-.section {
-  display: flex;
-  align-items: center;
-  margin-top: 94px;
-  margin-bottom: 94px;
+.section-style {
+  padding: 120px 0;
 }
 
-.subtitle-main {
-  flex-direction: row;
-  justify-content: space-between;
-  margin-top: 120px;
+.li-style {
+  display: flex;
+  gap: 24px;
+  margin-right: 24px;
+  width: calc((100% - 72px) / 4);
 }
 
-.paragraf-main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+.subtitle-style {
+  margin-bottom: 8px;
 }
 
 .what-are-you-doing {
