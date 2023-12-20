@@ -127,6 +127,10 @@ ul {
   overflow: hidden;
 }
 
+.li-style {
+  width: ((100%-72px) / 4);
+}
+
 .subtitle-style {
   margin-bottom: 8px;
 }
