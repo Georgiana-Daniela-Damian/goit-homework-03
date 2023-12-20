@@ -127,7 +127,7 @@ ul {
   overflow: hidden;
 }
 
-.li-style {
+.li-style-one {
   width: calc((100%-72px) / 4);
 }
 
