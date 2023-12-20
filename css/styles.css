@@ -210,6 +210,11 @@ ul {
   border-top: none;
 }
 
+.next-row-description {
+  flex-wrap: wrap;
+  row-gap: 48px;
+}
+
 /* Logo */
 
 .logo-link {
