@@ -127,7 +127,7 @@ ul {
   overflow: hidden;
 }
 
-.li-style-one {
+.li-style {
   width: calc((100%-72px) / 4);
 }
 
@@ -212,10 +212,7 @@ img {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-}
-
-.li-row {
-  width: calc((100%-48px) / 3);
+  padding: 0%;
 }
 
 .description-container {
