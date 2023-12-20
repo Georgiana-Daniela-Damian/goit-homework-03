@@ -396,6 +396,7 @@ ul {
   letter-spacing: 0.02em;
   color: var(--navy-blue-color);
   display: flex;
+  margin-bottom: 8px;
 }
 
 .paragraf {
