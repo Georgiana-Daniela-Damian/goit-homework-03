@@ -162,6 +162,7 @@ ul {
 
 .team-name-style {
   width: ((100% - 72px)/ 4);
+  border-radius: 0px 0px 4px 4px 4px;
 }
 
 .team-name-container {
@@ -366,8 +367,6 @@ ul {
 
 .team {
   background-color: #ffffffff;
-  border-radius: 0px 0px 4px 4px 4px;
-  gap: 24px;
 }
 
 .our-team {
@@ -387,6 +386,7 @@ ul {
   text-transform: capitalize;
   color: var(--navy-blue-color);
   display: flex;
+  gap: 24px;
 }
 
 .team-name {
