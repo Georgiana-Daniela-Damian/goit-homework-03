@@ -215,6 +215,12 @@ img {
   padding: 0%;
 }
 
+.li-row {
+  justify-content: center;
+  margin-bottom: 72px;
+  gap: 24px;
+}
+
 .description-container {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
@@ -245,9 +251,6 @@ img {
   list-style: none;
   display: flex;
   gap: 24px;
-  justify-content: center;
-  margin-bottom: 72px;
-  row-gap: 48px;
 }
 
 .link {
