@@ -52,7 +52,6 @@ ul {
   display: flex;
   width: 1158px;
   flex-direction: row;
-  margin: 0 auto;
 }
 
 .logo-style {
@@ -70,16 +69,8 @@ ul {
 .address-style {
   display: flex;
   gap: 40px;
-  justify-content: space-between;
-  margin-top: 24px;
-  margin-right: 100px;
-}
-
-.mailto-style {
-  display: flex;
-  margin-right: 40px;
-  flex-direction: row;
-  padding: 24px 0;
+  margin-top: 70px;
+  margin-left: -30px;
 }
 
 /* section-one */
@@ -87,6 +78,7 @@ ul {
 .section-one {
   display: flex;
   padding: 188px 0;
+  margin-top: -30px;
 }
 
 .title-big {
