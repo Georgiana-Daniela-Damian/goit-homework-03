@@ -240,7 +240,6 @@ img {
   display: flex;
   gap: 24px;
   justify-content: center;
-  row-gap: 48px;
 }
 
 .link {
