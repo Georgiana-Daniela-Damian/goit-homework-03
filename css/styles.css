@@ -188,6 +188,10 @@ img {
   display: block;
 }
 
+.button-margin {
+  margin-bottom: 72px;
+}
+
 .buttons-style {
   padding-top: 96px;
   padding-bottom: 120px;
@@ -234,7 +238,6 @@ img {
   display: flex;
   gap: 24px;
   justify-content: center;
-  margin-bottom: 72px;
 }
 
 .link {
