@@ -66,14 +66,9 @@ ul {
   padding: 24px 0;
 }
 
-.address-style {
-  display: flex;
-  gap: 40px;
-}
 .address-style-one {
   margin-top: 25px;
   margin-left: 50px;
-  gap: 40px;
 }
 
 /* section-one */
@@ -266,6 +261,8 @@ img {
 .address {
   font-style: normal;
   list-style-type: none;
+  display: flex;
+  gap: 40px;
 }
 
 .link-address {
