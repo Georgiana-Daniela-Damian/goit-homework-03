@@ -69,6 +69,7 @@ ul {
 .address-style-one {
   margin-top: 25px;
   margin-left: 130px;
+  gap: 40px;
 }
 
 /* section-one */
@@ -200,9 +201,6 @@ img {
   flex-wrap: wrap;
   column-gap: 24px;
   padding: 0%;
-}
-
-.row-gap {
   row-gap: 48px;
 }
 
