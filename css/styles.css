@@ -38,22 +38,20 @@ ul {
 
 /* all-page-container-style */
 
-.all-container {
-  border-bottom: 1px solid #e7e9fc;
-}
-
 .container {
-  width: 100%;
   max-width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
 
+.all-container {
+  border-bottom: 1px solid #e7e9fc;
+}
+
 .header-container {
-  width: 1158px;
   display: flex;
+  width: 1158px;
   flex-direction: row;
-  justify-content: space-between;
   margin: 0 auto;
 }
 
