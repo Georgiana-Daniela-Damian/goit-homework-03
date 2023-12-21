@@ -238,7 +238,7 @@ img {
 .list {
   list-style: none;
   display: flex;
-  gap: 24px;
+  gap: 40px;
   justify-content: center;
   margin-bottom: 72px;
 }
