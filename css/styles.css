@@ -71,7 +71,7 @@ ul {
   gap: 40px;
 }
 .address-style-one {
-  margin-top: 70px;
+  margin-top: 25px;
   margin-left: -30px;
 }
 
@@ -80,7 +80,6 @@ ul {
 .section-one-style {
   display: flex;
   padding: 188px 0;
-  margin-top: -50px;
 }
 
 .title-big {
@@ -120,7 +119,7 @@ ul {
 }
 
 .li-style {
-  width: calc((100% - 72px) / 4);
+  width: ((100% - 72px) / 4);
 }
 
 .subtitle-style {
