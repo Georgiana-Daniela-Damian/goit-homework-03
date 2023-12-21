@@ -202,6 +202,10 @@ img {
   padding: 0%;
 }
 
+.row-gap {
+  row-gap: 48px;
+}
+
 .li-row-style {
 }
 
@@ -235,7 +239,6 @@ img {
   display: flex;
   gap: 24px;
   justify-content: center;
-  row-gap: 48px;
 }
 
 .link {
