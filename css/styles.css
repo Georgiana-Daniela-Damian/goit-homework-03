@@ -410,7 +410,7 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--navy-blue-color);
-  display: flex;
+  margin-left: 500px;
 }
 
 .team-name {
