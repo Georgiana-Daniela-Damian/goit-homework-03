@@ -201,7 +201,6 @@ img {
 }
 
 .li-row {
-  gap: 24px;
 }
 
 .description-container {
@@ -235,6 +234,7 @@ img {
   display: flex;
   gap: 24px;
   justify-content: center;
+  margin-bottom: 72px;
 }
 
 .link {
