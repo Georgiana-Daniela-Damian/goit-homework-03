@@ -69,6 +69,8 @@ ul {
 .address-style {
   display: flex;
   gap: 40px;
+}
+.address-style {
   margin-top: 70px;
   margin-left: -30px;
 }
@@ -238,7 +240,7 @@ img {
 .list {
   list-style: none;
   display: flex;
-  gap: 40px;
+  gap: 24px;
   justify-content: center;
   margin-bottom: 72px;
 }
