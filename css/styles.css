@@ -137,9 +137,10 @@ ul {
   margin-bottom: 72px;
 }
 
-.image-style {
+.images-style {
   display: flex;
   gap: 24px;
+  width: calc((100% - 48px) / 3);
 }
 
 /* section-four */
@@ -242,7 +243,6 @@ img {
   display: flex;
   gap: 24px;
   justify-content: center;
-  margin-bottom: 72px;
 }
 
 .link {
